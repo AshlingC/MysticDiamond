@@ -1,0 +1,5 @@
+name: ChunkRandomizer
+version: '1.0'
+main: org.ashling.chunkrandomizer.ChunkRandomizer
+api-version: '1.20'
+author: "9bk"
